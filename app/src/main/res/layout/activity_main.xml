@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.hengda.zwf.preference.MainActivity">
+
+    <TextView
+        android:id="@+id/tvDeviceNo"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:padding="12dp"
+        android:textSize="20sp" />
+
+    <Button
+        android:id="@+id/btnChangeDeviceNo"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Change Device No" />
+
+    <Button
+        android:id="@+id/btnSaveEntity"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Save Entity" />
+
+</LinearLayout>
