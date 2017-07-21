@@ -1,6 +1,6 @@
 package com.hengda.zwf.preference
 
-import com.marcinmoskala.kotlinpreferences.PreferenceHolder
+import com.hengda.zwf.okpreference.PreferenceHolder
 
 
 /**

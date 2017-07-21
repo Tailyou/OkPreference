@@ -1,7 +1,7 @@
 package com.hengda.zwf.preference
 
 import android.app.Application
-import com.marcinmoskala.kotlinpreferences.PreferenceHolder
+import com.hengda.zwf.okpreference.PreferenceHolder
 
 /**
  * 作者：祝文飞（Tailyou）

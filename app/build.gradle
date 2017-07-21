@@ -36,5 +36,4 @@ dependencies {
     implementation "org.jetbrains.anko:anko-commons:$anko_version"
     compile 'com.github.Tailyou:OkPreference:0.0.4'
     //implementation project(':library')
-    //implementation project(':preferenceholder-lib')
 }

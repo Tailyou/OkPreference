@@ -6,7 +6,6 @@
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/library/library.iml" filepath="$PROJECT_DIR$/library/library.iml" />
       <module fileurl="file://E:\Workspace_as\2017\library\tailyou\OkPreference\library\okpreference.iml" filepath="E:\Workspace_as\2017\library\tailyou\OkPreference\library\okpreference.iml" />
-      <module fileurl="file://$PROJECT_DIR$/preferenceholder-lib/preferenceholder-lib.iml" filepath="$PROJECT_DIR$/preferenceholder-lib/preferenceholder-lib.iml" />
     </modules>
   </component>
 </project>
