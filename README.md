@@ -1,7 +1,7 @@
 ## 一、概述
 
-在开发过程中通常需要保存用户或App的一些配置信息，如token，DeviceNo，OkPreference是一个管理配置信息的工具库，
-可以方便的管理需要配置的字段，字段支持Long，Int，Boolean，String，Float五种基本类型，也可以是任意类。
+在开发过程中通常需要保存用户或App的一些配置信息，如token，DeviceNo等，OkPreference是一个管理配置信息的工具库，
+可以方便的管理需要配置的字段，字段支持Long，Int，Boolean，String，Float五种基本类型，也可以是任意自定义类型。
 
 ## 二、版本
 
