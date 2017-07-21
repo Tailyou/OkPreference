@@ -34,6 +34,6 @@ dependencies {
     implementation 'com.android.support.constraint:constraint-layout:1.0.2'
     implementation "org.jetbrains.kotlin:kotlin-stdlib-jre7:$kotlin_version"
     implementation "org.jetbrains.anko:anko-commons:$anko_version"
-    compile 'com.github.Tailyou:OkPreference:0.0.4'
+    //compile 'com.github.Tailyou:OkPreference:0.0.5'
     //implementation project(':library')
 }
